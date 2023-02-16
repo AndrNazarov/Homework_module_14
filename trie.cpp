@@ -1,5 +1,4 @@
-#include "Trie.h"
-
+#include "trie.h"
 
 TrieNode* Trie::getNewNode(void)
 {

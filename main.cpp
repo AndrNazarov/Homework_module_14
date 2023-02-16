@@ -1,4 +1,4 @@
-#include "Trie.h"
+#include "trie.h"
 #include <windows.h>
 #include "string.h"
 #include <conio.h> 
